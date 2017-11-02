@@ -1,7 +1,7 @@
 module Hw3
 
 (* Assignment 3 *) (* Do not edit this line. *)
-(* Student name: Carlos Brathwaite, Id Number: 6666 *) (* Edit this line. *)
+(* Student name: Bowen Tian, Id Number:  *) (* Edit this line. *)
 
 (* In the template below we have written the names of the functions that
 you need to define.  You MUST use these names.  If you introduce auxiliary

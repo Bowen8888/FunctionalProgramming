@@ -1,5 +1,5 @@
 (* Assignment 1 *) (* Do not edit this line. *)
-(* Student name: Bowen Tian, Id Number: 260707233 *) (* Edit this line. *)
+(* Student name: Bowen Tian, Id Number:  *) (* Edit this line. *)
 
 (* In the template below we have written the names of the functions that
 you need to define.  You MUST use these names.  If you introduce auxiliary
